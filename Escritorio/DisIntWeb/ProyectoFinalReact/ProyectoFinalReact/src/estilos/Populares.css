@@ -1,0 +1,42 @@
+.titulo{
+    font-size: 36px;
+    font-weight: bold;
+    color: #d4a30f;
+    margin-bottom: 40px;
+    margin-top: 150px;
+}
+
+.titulo span {
+    margin-right: 15px; 
+}
+
+.caratulas {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding: 20px;
+    justify-items: center;
+}
+
+.peliculas {
+    text-align: center;
+}
+
+.peliculas img {
+    height: 490px;
+    border-radius: 10px;
+    object-fit: cover;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease;
+}
+
+.peliculas img:hover {
+    transform: scale(1.12);
+}
+
+.peliculas h2 {
+    margin-top: 10px;
+    font-size: 28px;
+    color: aquamarine;
+    text-shadow: 2px 2px 5px rgba(127, 255, 212, 0.5);
+}

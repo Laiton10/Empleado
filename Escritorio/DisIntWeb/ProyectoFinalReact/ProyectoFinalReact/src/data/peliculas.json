@@ -1,0 +1,159 @@
+[
+  {
+    "id": 1,
+    "titulo": "Shingeki no Kyojin",
+    "sinopsis": "La humanidad se encuentra al borde de la extinción debido a los titanes, criaturas gigantes que devoran a los humanos. Un grupo de jóvenes soldados lucha para defender a la humanidad de esta amenaza, mientras desentrañan secretos oscuros sobre los titanes y su propio mundo.",
+    "reparto": [
+      "Yuki Kaji como Eren Jaeger",
+      "Mariya Ise como Sasha Blouse",
+      "Hiroshi Kamiya como Levi Ackerman"
+    ],
+    "director": "Tetsurō Araki",
+    "duracion": "24 minutos por episodio",
+    "criticas": "Aclamada por su trama intensa, desarrollo de personajes y acción imparable. Es una de las series de anime más influyentes de los últimos años.",
+    "puntuacion": "8.9/10",
+    "imagen": "descarga.jpeg",
+    "streaming": ["Netflix", "Crunchyroll"]
+  },
+  {
+    "id": 2,
+    "titulo": "Breaking Bad",
+    "sinopsis": "Breaking Bad sigue la vida de Walter White, un profesor de química que se convierte en fabricante de metanfetaminas para asegurar el futuro financiero de su familia después de ser diagnosticado con cáncer.",
+    "reparto": [
+      "Bryan Cranston como Walter White",
+      "Aaron Paul como Jesse Pinkman",
+      "Anna Gunn como Skyler White"
+    ],
+    "director": "Vince Gilligan",
+    "duracion": "47 minutos por episodio",
+    "criticas": "Aclamada como una de las mejores series de todos los tiempos, famosa por sus giros de trama, desarrollo de personajes y diálogos.",
+    "puntuacion": "9.5/10",
+    "imagen": "braking.jpeg",
+    "streaming": ["Netflix", "Amazon Prime"]
+  },
+  {
+    "id": 3,
+    "titulo": "Five Nights at Freddy's",
+    "sinopsis": "En esta serie de videojuegos, el jugador toma el rol de un guardia de seguridad nocturno en una pizzería de animatrónicos. Los animatrónicos cobran vida por la noche y el objetivo del jugador es sobrevivir sin ser atrapado por ellos.",
+    "reparto": [
+      "No hay reparto definido, ya que es un videojuego."
+    ],
+    "director": "Scott Cawthon",
+    "duracion": "130 minutos",
+    "criticas": "Una de las franquicias de videojuegos más exitosas que mezcla terror con mecánicas únicas y aterradoras.",
+    "puntuacion": "7.8/10",
+    "imagen": "fnaf.jpeg",
+    "streaming": ["Steam", "Epic Games Store"]
+  },
+  {
+    "id": 4,
+    "titulo": "Spiderman: No Way Home",
+    "sinopsis": "Peter Parker se enfrenta a un dilema cuando su identidad secreta es revelada al mundo. Para solucionar este problema, recurre a Doctor Strange, lo que desencadena una serie de eventos que abren el multiverso.",
+    "reparto": [
+      "Tom Holland como Peter Parker",
+      "Zendaya como MJ",
+      "Benedict Cumberbatch como Doctor Strange"
+    ],
+    "director": "Jon Watts",
+    "duracion": "148 minutos",
+    "criticas": "Una emocionante aventura que explora el multiverso y las consecuencias de las decisiones de Peter Parker.",
+    "puntuacion": "8.3/10",
+    "imagen": "spideyyy.jpeg",
+    "streaming": ["Disney+"]
+  },
+  {
+    "id": 5,
+    "titulo": "IT: Chapter Two",
+    "sinopsis": "27 años después de los eventos de la primera película, los miembros del Club de los Perdedores regresan a Derry para enfrentar de nuevo a Pennywise, el payaso demoníaco que los aterrorizó en su infancia.",
+    "reparto": [
+      "James McAvoy como Bill Denbrough",
+      "Jessica Chastain como Beverly Marsh",
+      "Bill Hader como Richie Tozier"
+    ],
+    "director": "Andy Muschietti",
+    "duracion": "169 minutos",
+    "criticas": "Un cierre grandioso y aterrador para la historia de los Perdedores, aunque más oscuro y maduro que la primera parte.",
+    "puntuacion": "6.5/10",
+    "imagen": "it2.jpeg",
+    "streaming": ["HBO Max"]
+  },
+  {
+    "id": 6,
+    "titulo": "Hasta el cielo",
+    "sinopsis": "Un joven de clase baja se adentra en el mundo del crimen y el robo de grandes cantidades de dinero en Madrid, enfrentándose a la policía, su propio sentido de la moralidad y su familia.",
+    "reparto": [
+      "Miguel Herrán como Ángel",
+      "Carolina Yuste como Estefanía",
+      "José Coronado como El Pastor"
+    ],
+    "director": "Daniel Calparsoro",
+    "duracion": "119 minutos",
+    "criticas": "Una historia de acción y crimen bastante entretenida, pero que sigue fórmulas ya conocidas.",
+    "puntuacion": "6.9/10",
+    "imagen": "hasta el cielo.jpeg",
+    "streaming": ["Netflix"]
+  },
+  {
+    "id": 7,
+    "titulo": "Harry Potter y las Reliquias de la Muerte: Parte 1",
+    "sinopsis": "Harry, Ron y Hermione continúan su búsqueda para destruir los horrocruxes de Voldemort mientras el mundo mágico se encuentra en guerra.",
+    "reparto": [
+      "Daniel Radcliffe como Harry Potter",
+      "Emma Watson como Hermione Granger",
+      "Rupert Grint como Ron Weasley"
+    ],
+    "director": "David Yates",
+    "duracion": "146 minutos",
+    "criticas": "Una primera parte que prepara el terreno para el gran final de la saga, ofreciendo acción, emoción y un desarrollo profundo de personajes.",
+    "puntuacion": "7.8/10",
+    "imagen": "harry potter.jpeg",
+    "streaming": ["HBO Max"]
+  },
+  {
+    "id": 8,
+    "titulo": "Interstellar",
+    "sinopsis": "En un futuro distópico donde la Tierra enfrenta una crisis agrícola, un grupo de astronautas liderado por Cooper emprende un viaje interestelar en busca de un nuevo hogar para la humanidad.",
+    "reparto": [
+      "Matthew McConaughey como Joseph Cooper",
+      "Anne Hathaway como Amelia Brand",
+      "Jessica Chastain como Murph (adulta)"
+    ],
+    "director": "Christopher Nolan",
+    "duracion": "169 minutos",
+    "criticas": "Aclamada por su asombrosa cinematografía y la historia emocionalmente profunda, que toca temas como el amor, el sacrificio y el tiempo.",
+    "puntuacion": "8.7/10",
+    "imagen": "interstellar.jpeg",
+    "streaming": ["Netflix", "Amazon Prime"]
+  },
+  {
+    "id": 9,
+    "titulo": "Space Jam 2",
+    "sinopsis": "LeBron James y los Looney Tunes se unen para enfrentarse a un equipo de villanos digitales en un partido de baloncesto, buscando salvar a su hijo y recuperar el control de su destino.",
+    "reparto": [
+      "LeBron James como él mismo",
+      "Don Cheadle como Al-G Rhythm"
+    ],
+    "director": "Malcolm D. Lee",
+    "duracion": "115 minutos",
+    "criticas": "Una secuela que juega con la nostalgia, pero que no logra capturar la magia de la película original.",
+    "puntuacion": "4.3/10",
+    "imagen": "space jam.jpeg",
+    "streaming": ["HBO Max"]
+  },
+  {
+    "id": 10,
+    "titulo": "Cars 3",
+    "sinopsis": "Rayo McQueen, ya en sus últimos años como corredor, enfrenta a nuevos retos cuando un coche más joven y rápido, Jackson Storm, llega a la escena.",
+    "reparto": [
+      "Owen Wilson como Rayo McQueen",
+      "Cristela Alonzo como Cruz Ramirez",
+      "Chris Cooper como Smokey"
+    ],
+    "director": "Brian Fee",
+    "duracion": "109 minutos",
+    "criticas": "Una película divertida, pero un tanto predecible en su fórmula.",
+    "puntuacion": "6.7/10",
+    "imagen": "cars3.jpeg",
+    "streaming": ["Disney+"]
+  }
+]

@@ -1,0 +1,50 @@
+.pelicula{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 130px;
+    margin-top: 100px;
+}
+
+.tituloPeli{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 90px;
+    
+}
+
+.tituloPeli h1{
+    color: wheat;
+    font-size: 50px;
+    margin-left: 20px;
+}
+
+.tituloPeli img{
+    height: 400px;
+    width: 400px;
+    margin-left: 40px;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+.infoPeli{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 15px;
+    width: 400px;
+    margin-right: 260px;
+    color: aliceblue;
+    
+}
+
+.infoPeli strong{
+    color: #d4a30f;
+}
+
+.infoPeli span {
+    margin-right: 5px; 
+}
